@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Maze-Xcape1.sln"
+    "dotnet.defaultSolution": "Maze-Xcape.sln"
 }
